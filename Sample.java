@@ -9,4 +9,8 @@ public static  void main(String[]james)
 {
 System.out.println("hello");
 }
+  void show()
+  {
+    System.out.println("i am working..!");
+  }
 }
